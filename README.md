@@ -1,4 +1,5 @@
 # ChatGPT Personality-Based Chatbot (Google Colab)
+https://colab.research.google.com/drive/1nsmB3-2fjfYQJx8aSEHBB_cd2CdH__pz?usp=sharing
 
 A smart, interactive chatbot powered by **OpenAI’s ChatGPT API**, designed to let users choose from various **AI personalities** like **Romantic, Coding Assistant, Journaling Guide, Fitness Coach**, and more. The chatbot responds in the tone and expertise of the selected personality, making the experience feel more human and tailored.
 
